@@ -1,0 +1,10 @@
+ultralytics
+supervision
+ultralytics
+shapely
+opencv-python
+json
+numpy
+pandas
+shutil
+pillow
